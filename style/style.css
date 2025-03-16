@@ -59,10 +59,10 @@ section.image {
     background-position: center;
 }
 section#image01 {
-    background-image: url('imagens/background001.jpg');
+    background-image: url('../imagens/background001.jpg');
 }
 section#image02{
-    background-image: url('imagens/background002.jpg');
+    background-image: url('../imagens/background002.jpg');
 }
 p.image {
     border-radius: 10px;
